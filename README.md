@@ -20,8 +20,13 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-富文本编辑
-json编辑
-统计图表，折线，柱状 饼状
-树形组件
-列表拖拽排序
+### 富文本编辑
+1.quill
+2.tinymce
+### json编辑
+script-loader，jsonlint， codemirror
+### 统计图表，折线，柱状 饼状
+echarts
+### 树形组件
+### 列表拖拽排序
+vuedraggable

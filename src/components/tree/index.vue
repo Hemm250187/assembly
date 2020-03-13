@@ -4,7 +4,6 @@
       <tree-item 
        :data="item" 
        :treeProps="treeProps" 
-      
        ></tree-item>
     </ul>
   </div>
